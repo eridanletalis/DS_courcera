@@ -18,3 +18,10 @@
  	week_3_task_1.ipynb
   
 Задачки оптимизации
+
+--------------------
+ 	Central_limit_theorem.ipynb
+  
+Проверка ЦПТ
+ 
+ 
